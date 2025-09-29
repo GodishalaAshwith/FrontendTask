@@ -1,4 +1,4 @@
-```javascript
+
 const form = document.getElementById('todoForm');
 const input = document.getElementById('todo-input');
 const list = document.getElementById('todos');
@@ -44,5 +44,4 @@ form.addEventListener('submit', (e) => {
 
 // Initial render
 render();
-```
 
