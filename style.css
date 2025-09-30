@@ -1,5 +1,28 @@
-body { font-family: Arial, sans-serif; background: #f6f7fb; }
-.app { max-width: 400px; margin: 40px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
-li { padding: 8px; border-bottom: 1px solid #eee }
-.completed { text-decoraion: line-through; color: #999; }
-button { cursor: pointer; }
+
+body { 
+  font-family: Arial, sans-serif; 
+  background: #f6f7fb; 
+}
+
+.app { 
+  max-width: 400px; 
+  margin: 40px auto; 
+  padding: 20px; 
+  background: white; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08); 
+}
+
+li { 
+  padding: 8px; 
+  border-bottom: 1px solid #eee; 
+}
+
+.completed { 
+  text-decoration: line-through; 
+  color: #999; 
+}
+
+button { 
+  cursor: pointer; 
+}
